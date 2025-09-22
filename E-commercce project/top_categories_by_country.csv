@@ -1,0 +1,51 @@
+Country,Product_Category,Purchase_Amount,rank_in_country
+Australia,Grocery,335303.16,1.0
+Australia,Beauty,322842.39,2.0
+Australia,Sports,319138.22,3.0
+Australia,Electronics,316239.62,4.0
+Australia,Toys,312113.09,5.0
+Brazil,Clothing,333614.47,1.0
+Brazil,Toys,329051.63,2.0
+Brazil,Books,319991.03,3.0
+Brazil,Sports,311645.95,4.0
+Brazil,Grocery,308800.17,5.0
+Canada,Books,340734.15,1.0
+Canada,Toys,327053.1,2.0
+Canada,Grocery,325693.89,3.0
+Canada,Clothing,322240.55,4.0
+Canada,Sports,319876.8,5.0
+France,Clothing,331622.23,1.0
+France,Grocery,325406.02,2.0
+France,Electronics,323339.62,3.0
+France,Sports,318675.91,4.0
+France,Beauty,318036.14,5.0
+Germany,Sports,326127.36,1.0
+Germany,Beauty,325314.33,2.0
+Germany,Books,321880.0,3.0
+Germany,Electronics,313067.19,4.0
+Germany,Clothing,307038.62,5.0
+India,Electronics,329364.17,1.0
+India,Home & Kitchen,327349.14,2.0
+India,Sports,327133.96,3.0
+India,Books,323406.1,4.0
+India,Grocery,317794.62,5.0
+Japan,Beauty,323443.64,1.0
+Japan,Books,318447.03,2.0
+Japan,Electronics,313967.05,3.0
+Japan,Home & Kitchen,313198.83,4.0
+Japan,Grocery,306863.01,5.0
+Mexico,Toys,339836.63,1.0
+Mexico,Clothing,334037.33,2.0
+Mexico,Books,321718.91,3.0
+Mexico,Electronics,321256.21,4.0
+Mexico,Home & Kitchen,319497.99,5.0
+UK,Sports,334038.64,1.0
+UK,Toys,330363.67,2.0
+UK,Clothing,317634.65,3.0
+UK,Books,304199.39,4.0
+UK,Grocery,301022.18,5.0
+USA,Home & Kitchen,328129.75,1.0
+USA,Grocery,325796.08,2.0
+USA,Toys,322012.33,3.0
+USA,Clothing,317628.38,4.0
+USA,Books,316741.46,5.0
